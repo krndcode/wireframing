@@ -31,3 +31,29 @@ Shows where text, images, and other media will appear. It focuses on hierarchy a
 ### 4. Functionality
 Indicates interactive elements and system behaviors, such as forms, search bars, or buttons.  
 **Example:** A “Search for Tickets” form box in a booking system wireframe highlights how users can start the booking process.
+
+
+# Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and fidelity. The two most common types are **Low-fidelity** and **High-fidelity** wireframes.
+
+### Low-Fidelity Wireframes
+- **Definition:** Simple, rough sketches (digital or hand-drawn) that outline the basic layout and structure of a page.  
+- **Purpose:** Focus on *concepts* rather than design details.  
+- **Usage:** Typically used in the early stages of the design process to brainstorm ideas and align stakeholders.  
+- **Example:** A sketch of a booking page with boxes for navigation, search, and results, without colors or detailed styling.  
+
+### High-Fidelity Wireframes
+- **Definition:** Detailed wireframes that closely resemble the final product in terms of layout, spacing, and even typography.  
+- **Purpose:** Provide clarity on functionality, user interactions, and visual hierarchy.  
+- **Usage:** Used later in the design process, often just before moving into prototyping or UI design.  
+- **Example:** A booking system wireframe that includes actual field labels, button placements, and sample text.  
+
+---
+
+## What Type of Wireframe is Here?
+
+The examples in this repository focus on **low-fidelity wireframes**, as the goal is to demonstrate the structure and key elements of a design rather than the final visual details. Low-fidelity wireframes are best at this stage because they encourage quick iterations and feedback without spending too much time on styling.
+
+
+
