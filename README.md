@@ -56,4 +56,25 @@ Wireframes can be categorized based on their level of detail and fidelity. The t
 The examples in this repository focus on **low-fidelity wireframes**, as the goal is to demonstrate the structure and key elements of a design rather than the final visual details. Low-fidelity wireframes are best at this stage because they encourage quick iterations and feedback without spending too much time on styling.
 
 
+# Popular Wireframing Tools
+
+There are several tools available to create wireframes, ranging from simple sketching apps to advanced design platforms. These tools help designers collaborate, visualize ideas, and refine layouts before moving into detailed design.
+
+### Recommended Tool: Figma
+[Figma](https://www.figma.com/) is one of the most popular tools for wireframing and UI/UX design.
+
+**Key Features:**
+- **Cloud-based Collaboration:** Teams can design together in real time, similar to Google Docs.  
+- **Cross-platform:** Works in the browser or as a desktop app on Windows, macOS, and Linux.  
+- **Wireframing & Prototyping:** Supports both low-fidelity and high-fidelity wireframes, with built-in prototyping tools.  
+- **Component System:** Designers can create reusable components (like buttons and forms) to keep designs consistent.  
+- **Free Plan Available:** Offers a free tier with powerful features, making it accessible to individuals and small teams.  
+
+**Why Figma is Useful for Wireframing:**
+- It allows quick sketching of layouts to test ideas.  
+- Real-time collaboration improves communication between designers, developers, and stakeholders.  
+- Its versatility supports both simple wireframes and detailed designs, making it a one-stop tool.  
+
+
+
 
